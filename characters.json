@@ -9,7 +9,7 @@
         "gender": "male",
         "species": "hedgehog",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/sonic.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/sonic.webp"
     },
     {
         "name": "Eggman",
@@ -21,7 +21,7 @@
         "gender": "male",
         "species": "human",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/eggman.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/eggman.webp"
     },
     {
         "name": "Amy Rose",
@@ -33,7 +33,7 @@
         "gender": "female",
         "species": "hedgehog",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/amy.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/amy.webp"
     },
     {
         "name": "Metal Sonic",
@@ -45,7 +45,7 @@
         "gender": "robot",
         "species": "badnik",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/metal_sonic.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/metal_sonic.webp"
     },
     {
         "name": "Miles 'Tails' Prower",
@@ -57,7 +57,7 @@
         "gender": "male",
         "species": "fox",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/tails.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/tails.webp"
     },
     {
         "name": "Knuckles the Echidna",
@@ -69,7 +69,7 @@
         "gender": "male",
         "species": "echidna",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/knuckles.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/knuckles.webp"
     },
     {
         "name": "Vector the Crocodile",
@@ -81,7 +81,7 @@
         "gender": "male",
         "species": "crocodile",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/vector.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/vector.webp"
     },
     {
         "name": "Espio the Chameleon",
@@ -93,7 +93,7 @@
         "gender": "male",
         "species": "chameleon",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/espio.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/espio.webp"
     },
     {
         "name": "Charmy Bee",
@@ -105,7 +105,7 @@
         "gender": "male",
         "species": "bee",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/charmy.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/charmy.webp"
     },
     {
         "name": "Big the Cat",
@@ -117,7 +117,7 @@
         "gender": "male",
         "species": "cat",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/big.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/big.webp"
     },
     {
         "name": "Froggy",
@@ -129,7 +129,7 @@
         "gender": "male",
         "species": "frog",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/froggy.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/froggy.webp"
     },
     {
         "name": "E-102 Gamma",
@@ -141,7 +141,7 @@
         "gender": "robot",
         "species": "badnik",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/gamma.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/gamma.webp"
     },
     {
         "name": "Tikal",
@@ -153,7 +153,7 @@
         "gender": "female",
         "species": "echidna",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/tikal.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/tikal.webp"
     },
     {
         "name": "Shadow the Hedgehog",
@@ -165,7 +165,7 @@
         "gender": "male",
         "species": "hedgehog",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/shadow.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/shadow.webp"
     },
     {
         "name": "Rouge the Bat",
@@ -177,7 +177,7 @@
         "gender": "female",
         "species": "bat",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/rouge.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/rouge.webp"
     },
     {
         "name": "Maria Robotnik",
@@ -189,7 +189,7 @@
         "gender": "female",
         "species": "human",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/maria.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/maria.webp"
     },
     {
         "name": "E-123 Omega",
@@ -201,7 +201,7 @@
         "gender": "robot",
         "species": "badnik",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/omega.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/omega.webp"
     },
     {
         "name": "Cream the Rabbit",
@@ -213,7 +213,7 @@
         "gender": "female",
         "species": "rabbit",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/cream.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/cream.webp"
     },
     {
         "name": "Cheese",
@@ -225,7 +225,7 @@
         "gender": "male",
         "species": "chao",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/cheese.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/cheese.webp"
     },
     {
         "name": "Vanilla the Rabbit",
@@ -237,7 +237,7 @@
         "gender": "female",
         "species": "rabbit",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/vanilla.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/vanilla.webp"
     },
     {
         "name": "Emerl",
@@ -249,7 +249,7 @@
         "gender": "robot",
         "species": "robot",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/emerl.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/emerl.webp"
     },
     {
         "name": "Gemerl",
@@ -261,7 +261,7 @@
         "gender": "robot",
         "species": "badnik",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/gemerl.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/gemerl.webp"
     },
     {
         "name": "Blaze the Cat",
@@ -273,7 +273,7 @@
         "gender": "female",
         "species": "cat",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/blaze.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/blaze.webp"
     },
     {
         "name": "Jet the Hawk",
@@ -285,7 +285,7 @@
         "gender": "male",
         "species": "hawk",
         "generalSpecies": "bird",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/jet.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/jet.webp"
     },
     {
         "name": "Wave the Swallow",
@@ -297,7 +297,7 @@
         "gender": "female",
         "species": "swallow",
         "generalSpecies": "bird",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/wave.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/wave.webp"
     },
     {
         "name": "Storm the Albatross",
@@ -309,7 +309,7 @@
         "gender": "male",
         "species": "albatross",
         "generalSpecies": "bird",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/storm.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/storm.webp"
     },
     {
         "name": "Silver the Hedgehog",
@@ -321,7 +321,7 @@
         "gender": "male",
         "species": "hedgehog",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/silver.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/silver.webp"
     },
     {
         "name": "Mephiles the Dark",
@@ -333,7 +333,7 @@
         "gender": "male",
         "species": "unknown",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/mephiles.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/mephiles.webp"
     },
     {
         "name": "Eggman Nega",
@@ -345,7 +345,7 @@
         "gender": "male",
         "species": "human",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/eggman_nega.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/eggman_nega.webp"
     },
     {
         "name": "Marine the Raccoon",
@@ -357,7 +357,7 @@
         "gender": "female",
         "species": "raccoon",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/marine.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/marine.webp"
     },
     {
         "name": "Chip",
@@ -369,7 +369,7 @@
         "gender": "male",
         "species": "unknown",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/chip.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/chip.webp"
     },
     {
         "name": "Orbot",
@@ -381,7 +381,7 @@
         "gender": "robot",
         "species": "badnik",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/orbot.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/orbot.webp"
     },
     {
         "name": "Cubot",
@@ -393,7 +393,7 @@
         "gender": "robot",
         "species": "badnik",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/cubot.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/cubot.webp"
     },
     {
         "name": "Infinite",
@@ -405,7 +405,7 @@
         "gender": "male",
         "species": "jackal",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/infinite.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/infinite.webp"
     },
     {
         "name": "Tangle the Lemur",
@@ -417,7 +417,7 @@
         "gender": "female",
         "species": "lemur",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/tangle.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/tangle.webp"
     },
     {
         "name": "Whisper the Wolf",
@@ -429,7 +429,7 @@
         "gender": "female",
         "species": "wolf",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/whisper.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/whisper.webp"
     },
     {
         "name": "Doctor Starline",
@@ -441,7 +441,7 @@
         "gender": "male",
         "species": "platypus",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/starline.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/starline.webp"
     },
     {
         "name": "Surge",
@@ -453,7 +453,7 @@
         "gender": "female",
         "species": "tenrec",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/surge.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/surge.webp"
     },
     {
         "name": "Kitsunami",
@@ -465,7 +465,7 @@
         "gender": "male",
         "species": "fox",
         "generalSpecies": "N/A",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/kitsunami.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/kitsunami.webp"
     },
     {
         "name": "Sage",
@@ -477,6 +477,6 @@
         "gender": "female",
         "species": "ai",
         "generalSpecies": "misc",
-        "imageUrl": "https://langtanium.github.io/sonicthehedgehog-character-api/images/sage.webp"
+        "imageUrl": "https://e-i-m-c.github.io/sonicthehedgehog-character-api/images/sage.webp"
     }
 ]
